@@ -12,10 +12,11 @@ Repositorio para armazenar resumos sobre GIT/GITHUB do curso de versionamento de
 | AULAS                                    | Resumo      |
 | ---------------------------------------- | ----------- |
 | Gravando alterações no repositorio local | [Resumos Teste]() |
+| AULA 1                                   | [01]()       |
 
 ```
 
-GIT init
+GIT init 
 ```
 
 ## 🔎 Referências
